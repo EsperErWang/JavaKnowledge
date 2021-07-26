@@ -1,4 +1,4 @@
-### Java基础
+### Java knowledge
 
 1. OOD: Encapsulation(封装), inheritance(继承), Polymorphism(多态), abstraction(抽象).
 
